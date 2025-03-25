@@ -109,8 +109,8 @@ public class SudokuWFCgen : MonoBehaviour
             {
                 if(i == j) continue;
 
-                bool neighborX = Math.Abs(cells[i].transform.position.x - cells[j].transform.position.x) <= 1.3 + 0.001;
-                bool neighborZ = Math.Abs(cells[i].transform.position.z - cells[j].transform.position.z) <= 1.3 + 0.001;
+                bool neighborX = Math.Abs(cells[i].transform.position.x - cells[j].transform.position.x) <= 0.3 + 0.001;
+                bool neighborZ = Math.Abs(cells[i].transform.position.z - cells[j].transform.position.z) <= 0.3 + 0.001;
 
                 if (neighborX && neighborZ)
                     cells[i].Neighbors.Add(cells[j]);

@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 1915390c36ba99e4eb1c8277a0075c1e
+  productGUID: 2985516248afb3e4b92f917b0992d761
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: TilesWaveFuncColapse
+  productName: WFC_Sudoku
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: TilesWaveFuncColapse
+  metroPackageName: WFC_Sudoku
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: TilesWaveFuncColapse
+  metroApplicationDescription: WFC_Sudoku
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: f1afc463-94ca-41a0-8b67-604574ea9656
+  cloudProjectId: c765dc40-6218-49b9-865b-e17c7e6608c9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: TilesWaveFuncColapse
+  projectName: WFC_Sudoku
   organizationId: unity_f1718b8a326f8975b800
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
